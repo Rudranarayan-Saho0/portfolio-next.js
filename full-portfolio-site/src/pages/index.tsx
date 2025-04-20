@@ -1,0 +1,1 @@
+/* Home page integrating Hero, About, Projects, Blog */
